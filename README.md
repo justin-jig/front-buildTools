@@ -31,18 +31,9 @@
 
 
 
-
-
 ## 🧑‍💻 Author
 **정인근 (Ingeun Jeong)**  
 📧 [justin-j@naver.com](mailto:justin-j@naver.com)  
 🧾 [note](https://justin-jig.github.io/justin-book)
 🏠 [git Profile](https://github.com/justin-jig)
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Markdown-Study-blue?logo=markdown" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-lightgrey" />
-</p>
