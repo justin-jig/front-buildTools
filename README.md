@@ -13,7 +13,7 @@
 |------|------|
 | **목적** | 배운 개념을 문서화하고 체계적으로 복습하기 위함 |
 | **형태** | Markdown 기반의 정리 문서 중심 |
-| **구조** | 주제별 폴더 + README 링크 구조 |
+| **구조** | 주제별 폴더 |
 
 ##### 📂 폴더 구조
 | 구분 | 설명 |
@@ -33,7 +33,7 @@
 
 ## 🧑‍💻 Author
 **정인근 (Ingeun Jeong)**  
-📧 [justin-j@naver.com](mailto:justin-j@naver.com)  
-🧾 [note](https://justin-jig.github.io/justin-book)
-🏠 [git Profile](https://github.com/justin-jig)
+- 📧 [justin-j@naver.com](mailto:justin-j@naver.com)  
+- 🧾 [note](https://justin-jig.github.io/justin-book)
+- 🏠 [git Profile](https://github.com/justin-jig)
 
